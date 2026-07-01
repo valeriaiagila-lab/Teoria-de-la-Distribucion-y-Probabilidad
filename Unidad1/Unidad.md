@@ -1,7 +1,7 @@
 ### 📚 Contenidos de la Unidad
 ### 📁 Unidad 1
 
-- 🎲 [**APE00. Fundamentos de Probabilidad y Espacios Muestrales**](unidad1/01_Fundamentos_de_Probabilidad_y_Espacios_Muestrales.md)
+- 🎲 [**APE00. Fundamentos de Probabilidad y Espacios Muestrales**](https://github.com/valeriaiagila-lab/Teoria-de-la-Distribucion-y-Probabilidad/blob/0453a11c81c0cc7cddab602ce524b8bfc5f3b098/Unidad1/APE01_Probabilidad_GrupoH.ipynb)
 
 - 📊 [**APE01. Variables Aleatorias y Distribuciones de Probabilidad**](unidad1/02_Variables_Aleatorias_y_Distribuciones_de_Probabilidad.md)
 
