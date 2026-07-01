@@ -7,7 +7,7 @@
 
 - 📈 [**APE02. Distribuciones Muestrales y Teorema del Límite Central**](https://github.com/valeriaiagila-lab/Teoria-de-la-Distribucion-y-Probabilidad/blob/0ac685d4765acf93d429bdab56d134db3f56e643/Unidad1/APE02_Distribuciones_Muestrales_GrupoH.ipynb)
 
-- 🔢 [**APE03. Variables Aleatorias Discretas y Continuas**](unidad1/04_Variables_Aleatorias_Discretas_y_Continuas.md)
+- 🔢 [**APE03. Variables Aleatorias Discretas y Continuas**](https://github.com/valeriaiagila-lab/Teoria-de-la-Distribucion-y-Probabilidad/blob/91d211a2571818343dfc52879b167693cbfb751f/Unidad1/Codigo.ipynb)
 
 - 🐍 [**APE04. Momentos Estadísticos y Medidas de Tendencia Central con Python**](unidad1/05_Momentos_Estadisticos_y_Medidas_de_Tendencia_Central_con_Python.md)
 
