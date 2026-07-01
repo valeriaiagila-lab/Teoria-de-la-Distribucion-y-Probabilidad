@@ -18,12 +18,11 @@
 
 ## ○ Unidad 3
 [- 🧩 **Unidad 3**](Unidad3/Unidad3.md)
+
 ----------------------------------
 ## ○ Declaración de Uso de IA Generativa
 ----------------------------------
 Para la elaboración de este portafolio en **GitHub**, se empleó la **inteligencia artificial ChatGPT** como herramienta de apoyo.
 Gracias a esta tecnología, fue posible organizar, redactar y etiquetar adecuadamente el contenido utilizando el lenguaje de formato Markdown, lo que contribuyó a una mejor presentación visual y estructural de los temas.
-
-Asimismo, la IA fue utilizada para corregir errores gramaticales y optimizar la redacción, garantizando una comunicación más clara y coherente.
 
 Este proceso permitió crear un portafolio más claro, dinámico y profesional, demostrando el uso responsable y educativo de la inteligencia artificial en el ámbito académico.
