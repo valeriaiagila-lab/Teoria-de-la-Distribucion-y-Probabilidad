@@ -3,7 +3,7 @@
 ## 👩‍🎓 Información del estudiante
 
 - **Nombre:** Valeria Idaly Agila Gomez
-- **Carrera:** Computación
+- **Carrera:** Ingeniería en Ciencias de la Computación
 - **Ciclo:** Segundo "A"
 - **Universidad:** Universidad Nacional de Loja
 - **Asignatura:** Teoría de la Distribución y Probabilidad
@@ -13,7 +13,7 @@
 
 ## 📖 Descripción del repositorio
 
-Este repositorio reúne los trabajos, prácticas y actividades desarrolladas durante la asignatura **Teoría de la Distribución y Probabilidad**, correspondiente a la carrera de Computación de la Universidad Nacional de Loja.
+Este repositorio reúne los trabajos, prácticas y actividades desarrolladas durante la asignatura **Teoría de la Distribución y Probabilidad**, correspondiente a la carrera de Ingeniería en Ciencias de la Computación de la Universidad Nacional de Loja.
 
 El propósito de este repositorio es documentar el aprendizaje adquirido a lo largo del curso mediante la resolución de ejercicios, análisis estadísticos y la implementación de diferentes técnicas utilizando **Python**.
 
@@ -29,7 +29,7 @@ Consolidar en un solo repositorio todas las prácticas realizadas durante la asi
 
 ## 📚 Contenido del repositorio
 
-El repositorio está organizado por unidades y temas abordados durante el ciclo.
+Este repositorio está organizado por unidades temáticas y reúne las actividades, ejercicios y materiales desarrollados durante el curso. Los temas incluidos son:
 
 - Fundamentos de Probabilidad y Espacios Muestrales.
 - Variables Aleatorias y Distribuciones de Probabilidad.
