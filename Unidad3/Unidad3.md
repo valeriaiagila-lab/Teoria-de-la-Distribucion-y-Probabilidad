@@ -1,12 +1,9 @@
 ### 📚 Contenidos de la Unidad
- [- 🧩 Algoritmos, pseudocódigo y diagrama de flujo](Algoritmos.md)
- 
-[- 🟦 Programación por bloques](bloque.md)
+### 📁 Unidad 3
+## 🚧 Contenido en desarrollo
 
-[- 📂 Ejemplos de algoritmos con estructuras lineales/secuenciales](ejemplos.md)
+Actualmente, esta unidad **aún no cuenta con contenidos desarrollados**.
 
-[- ⚠️ Principales dificultades en la aplicación de los contenidos](dificultades.md)
+Los temas, actividades y materiales correspondientes a la **Unidad 3** serán incorporados conforme avance la asignatura y se desarrollen las prácticas correspondientes.
 
-[- 📝 Reflexión crítica de los aprendizajes de la unidad](reflexion.md)
 
-----------------------------------------------
