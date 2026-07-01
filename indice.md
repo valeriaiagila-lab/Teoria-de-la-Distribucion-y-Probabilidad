@@ -12,9 +12,9 @@
 ### 👩‍🎓 Estudiante: Valeria Idaly Agila Gómez  
 
 ## ○ Unidad 1
- [- 🧩 **Unidad 1**](unidad1/Unidad1.md)
+ [- 🧩 **Unidad 1**](Unidad1/Unidad1.md)
 ## ○ Unidad 2
- [- 🧩 **Unidad 2**](unidad2/unidad2.md)
+ [- 🧩 **Unidad 2**](Unidad2/Unidad2.md)
 
 ## ○ Unidad 3
 [- 🧩 **Unidad 3**](Unidad3/Unidad3.md)
