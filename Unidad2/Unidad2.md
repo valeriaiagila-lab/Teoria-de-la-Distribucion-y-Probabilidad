@@ -1,7 +1,7 @@
 ### 📚 Contenidos de la Unidad
 ### 📁 Unidad 2
 
-- 📐 [**APE07. Distribuciones Continuas Notables**](unidad2/08_Distribuciones_Continuas_Notables.md)
+- 📐 [**APE07. Distribuciones Continuas Notables**](https://github.com/valeriaiagila-lab/Teoria-de-la-Distribucion-y-Probabilidad/tree/b7d585bce8e4e3be76f56bf3b5f3d6437d1ec17e/Unidad2)
 
 - 🧪 [**APE08. Distribuciones Muestrales y Teorema del Límite Central (TLC) mediante Simulación Estocástica**](unidad2/09_Distribuciones_Muestrales_y_TLC_mediante_Simulacion_Estocastica.md)
 
