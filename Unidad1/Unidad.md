@@ -14,6 +14,5 @@
 
 - 📉 [**APE05. Distribuciones Discretas Notables**](https://github.com/valeriaiagila-lab/Teoria-de-la-Distribucion-y-Probabilidad/blob/fa258b09e8fd286a5d4d60f5a4497ede98d0b3e7/Unidad1/APE005_GrupoH%20(1).ipynb)
 
-- 📐 [**APE06. Distribuciones Continuas Notables**](unidad1/07_Distribuciones_Continuas_Notables.md)
 
 ---
