@@ -5,7 +5,7 @@
 
 - 📊 [**APE01. Variables Aleatorias y Distribuciones de Probabilidad**](https://github.com/valeriaiagila-lab/Teoria-de-la-Distribucion-y-Probabilidad/blob/f81010327224f4735c49e0dfbf14217265da41a7/Unidad1/APE01_Grupo_H%20(3).ipynb)
 
-- 📈 [**APE02. Distribuciones Muestrales y Teorema del Límite Central**](unidad1/03_Distribuciones_Muestrales_y_Teorema_del_Limite_Central.md)
+- 📈 [**APE02. Distribuciones Muestrales y Teorema del Límite Central**](https://github.com/valeriaiagila-lab/Teoria-de-la-Distribucion-y-Probabilidad/blob/0ac685d4765acf93d429bdab56d134db3f56e643/Unidad1/APE02_Distribuciones_Muestrales_GrupoH.ipynb)
 
 - 🔢 [**APE03. Variables Aleatorias Discretas y Continuas**](unidad1/04_Variables_Aleatorias_Discretas_y_Continuas.md)
 
