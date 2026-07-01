@@ -9,7 +9,8 @@
 
 - 🔢 [**APE03. Variables Aleatorias Discretas y Continuas**](https://github.com/valeriaiagila-lab/Teoria-de-la-Distribucion-y-Probabilidad/blob/91d211a2571818343dfc52879b167693cbfb751f/Unidad1/Codigo.ipynb)
 
-- 🐍 [**APE04. Momentos Estadísticos y Medidas de Tendencia Central con Python**](unidad1/05_Momentos_Estadisticos_y_Medidas_de_Tendencia_Central_con_Python.md)
+- 🐍 [**APE04. Momentos Estadísticos y Medidas de Tendencia Central con Python**](https://github.com/valeriaiagila-lab/Teoria-de-la-Distribucion-y-Probabilidad/blob/85bce6de4e6f558d1ca046c49dae99c6738b1dd2/Unidad1/APE04_Momentos_Estadisticos_Analisis_Tendencia_Central_GrupoH%20(1).ipynb)
+- 🐍 [**APE04. Momentos Estadísticos y Medidas de Tendencia Central con Python**](https://github.com/valeriaiagila-lab/Teoria-de-la-Distribucion-y-Probabilidad/blob/85bce6de4e6f558d1ca046c49dae99c6738b1dd2/Unidad1/APE04_Momentos_Estadisticos_Analisis_Tendencia_Central_GrupoH%20(1).ipynb)
 
 - 📉 [**APE05. Distribuciones Discretas Notables**](unidad1/06_Distribuciones_Discretas_Notables.md)
 
