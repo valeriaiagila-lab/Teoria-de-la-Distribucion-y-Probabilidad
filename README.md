@@ -13,7 +13,7 @@
 
 ## 📖 Descripción del repositorio
 
-Este repositorio reúne los trabajos, prácticas y actividades desarrolladas durante la asignatura **Teoría de la Distribución**, correspondiente a la carrera de Computación de la Universidad Nacional de Loja.
+Este repositorio reúne los trabajos, prácticas y actividades desarrolladas durante la asignatura **Teoría de la Distribución y Probabilidad**, correspondiente a la carrera de Computación de la Universidad Nacional de Loja.
 
 El propósito de este repositorio es documentar el aprendizaje adquirido a lo largo del curso mediante la resolución de ejercicios, análisis estadísticos y la implementación de diferentes técnicas utilizando **Python**.
 
@@ -79,4 +79,4 @@ Este dataset contiene información relacionada con las remuneraciones e ingresos
 
 ## 📌 Nota
 
-Este repositorio tiene fines académicos y contiene el material desarrollado durante la asignatura **Teoría de la Distribución** de la **Universidad Nacional de Loja**, como evidencia del aprendizaje y de la aplicación de métodos estadísticos mediante programación en Python.
+Este repositorio tiene fines académicos y contiene el material desarrollado durante la asignatura **Teoría de la Distribución y Probabilidad** de la **Universidad Nacional de Loja**, como evidencia del aprendizaje y de la aplicación de métodos estadísticos mediante programación en Python.
