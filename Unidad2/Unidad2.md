@@ -9,4 +9,4 @@
 
 - ✅ [**APE10. Inferencia Estadística: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p**](https://github.com/valeriaiagila-lab/Teoria-de-la-Distribucion-y-Probabilidad/blob/79df62ab794ec82bfd4fe37e31268af3167b4f66/Unidad2/APE10_GRUPOH%20(1).ipynb)
 
-- 📋 [**APE11. Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)**](unidad2/12_Inferencia_Estadistica_Multigrupo_ANOVA_y_Tukey.md)
+- 📋 [**APE11. Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)**](https://github.com/valeriaiagila-lab/Teoria-de-la-Distribucion-y-Probabilidad/blob/12534f3fb1de4afb082db1339ac4f1b700e05bb0/Unidad2/APE_011_DosMuestras.ipynb)
