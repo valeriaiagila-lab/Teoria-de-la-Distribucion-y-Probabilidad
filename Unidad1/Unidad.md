@@ -3,7 +3,7 @@
 
 - 🎲 [**APE00. Fundamentos de Probabilidad y Espacios Muestrales**](https://github.com/valeriaiagila-lab/Teoria-de-la-Distribucion-y-Probabilidad/blob/6bab152e59428ea16710267083e88ddf0de9c90b/Unidad1/APE01_Probabilidad_GrupoH.ipynb)
 
-- 📊 [**APE01. Variables Aleatorias y Distribuciones de Probabilidad**](unidad1/02_Variables_Aleatorias_y_Distribuciones_de_Probabilidad.md)
+- 📊 [**APE01. Variables Aleatorias y Distribuciones de Probabilidad**](https://github.com/valeriaiagila-lab/Teoria-de-la-Distribucion-y-Probabilidad/blob/f81010327224f4735c49e0dfbf14217265da41a7/Unidad1/APE01_Grupo_H%20(3).ipynb)
 
 - 📈 [**APE02. Distribuciones Muestrales y Teorema del Límite Central**](unidad1/03_Distribuciones_Muestrales_y_Teorema_del_Limite_Central.md)
 
