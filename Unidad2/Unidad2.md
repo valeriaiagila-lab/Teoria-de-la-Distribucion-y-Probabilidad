@@ -7,6 +7,6 @@
 
 - 🎯 [**APE09. Inferencia Estadística: Estimación de Parámetros e Intervalos de Confianza (Z y T de Student)**](https://github.com/valeriaiagila-lab/Teoria-de-la-Distribucion-y-Probabilidad/blob/c6febc9b02f62e627e86fc639bc09a34c549a32e/Unidad2/APE_009_Intervalos%20(3).ipynb)
 
-- ✅ [**APE10. Inferencia Estadística: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p**](unidad2/11_Inferencia_Estadistica_Pruebas_de_Hipotesis_y_Analisis_del_Valor_p.md)
+- ✅ [**APE10. Inferencia Estadística: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p**](https://github.com/valeriaiagila-lab/Teoria-de-la-Distribucion-y-Probabilidad/blob/79df62ab794ec82bfd4fe37e31268af3167b4f66/Unidad2/APE10_GRUPOH%20(1).ipynb)
 
 - 📋 [**APE11. Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)**](unidad2/12_Inferencia_Estadistica_Multigrupo_ANOVA_y_Tukey.md)
